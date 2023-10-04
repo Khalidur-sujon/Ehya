@@ -108,7 +108,7 @@ function ManagePost() {
 																	src={
 																		post?.photo
 																			? uploded.UPLOAD_FOLDER_BASE_URL +
-																			  post?.photo
+																			  post.photo
 																			: images.article_default
 																	}
 																	alt="article_image"
