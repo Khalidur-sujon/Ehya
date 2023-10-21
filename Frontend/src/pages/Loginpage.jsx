@@ -154,7 +154,7 @@ function LoginPage() {
 						<p>Demo account</p>
 						<p>
 							<span className="font-bold">username:</span>
-							khalid@gmail.com
+							aryan1@gmail.com
 						</p>
 						<p>
 							<span className="font-bold">password:</span> 123456
